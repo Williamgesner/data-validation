@@ -1,6 +1,5 @@
-# 📊 Projeto 02 – Construindo funções básicas de inscrição para validar novos usuários  
+# 📊 Construindo funções básicas de inscrição para validar novos usuários  
 
-**🔗 Projeto completo:** [Construindo funções básicas de inscrição para validar novos usuários](link_projeto)  
 **👤 LinkedIn:** [William Gesner](https://www.linkedin.com/in/william-gesner/)  
 
 ---

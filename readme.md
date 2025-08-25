@@ -43,8 +43,4 @@ O desafio principal foi garantir que as funções fossem simples, mas flexíveis
 O projeto resultou em **funções de validação reutilizáveis que garantem maior segurança e confiabilidade no processo de cadastro de novos usuários**.  
 Apesar de estar mais relacionado ao universo de **backend**, ele fortalece habilidades que também são cruciais para **Engenharia de Dados**, já que a integridade começa no ponto de entrada das informações.  
 
-👉 Essa prática reforçou meus conhecimentos em lógica de programação e manipulação de strings, além de mostrar como diferentes áreas da tecnologia se complementam. Projetos como este criam uma base sólida para lidar com dados de forma mais robusta em pipelines e sistemas de maior complexidade.  
-
----
-# data-validation
-# data-validation
+👉 Essa prática reforçou meus conhecimentos em lógica de programação e manipulação de strings, além de mostrar como diferentes áreas da tecnologia se complementam. Projetos como este criam uma base sólida para lidar com dados de forma mais robusta em pipelines e sistemas de maior complexidade.
